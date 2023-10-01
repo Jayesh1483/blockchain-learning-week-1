@@ -1,13 +1,6 @@
 # blockchain-learning-week-1
  This repository contains assignments for Week 1 of the Blockchain Learning curriculum, focusing on Blockchain basics and JavaScript fundamentals.
 
-
-
-
-
-
-
-
 ## Exercises:
 
 1. **Variables and Data Types:**
@@ -41,3 +34,6 @@
 8. **Unique Characters:**
    - File: `exercise4.js`
    - Run: `node exercise4.js`
+
+**##Test the Code**
+To tests the code, you can run it in the Visual Studio Code debugger terminal. You can open this by clicking the "Run and Debug" icon on the left or pressing Ctrl + Shift + D, then clicking JavaScript Debug Terminal.
