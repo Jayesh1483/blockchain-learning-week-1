@@ -35,5 +35,5 @@
    - File: `exercise4.js`
    - Run: `node exercise4.js`
 
-**##Test the Code**
+## Test the Code:
 To tests the code, you can run it in the Visual Studio Code debugger terminal. You can open this by clicking the "Run and Debug" icon on the left or pressing Ctrl + Shift + D, then clicking JavaScript Debug Terminal.
