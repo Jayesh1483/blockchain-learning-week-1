@@ -4,7 +4,7 @@
 ## Exercises:
 
 1. **Variables and Data Types:**
-   - File: `exercise1.js`
+   - File: `exercise1.js` exercise1.js
    - Run: `node exercise1.js`
 
 2. **Control Structures:**
